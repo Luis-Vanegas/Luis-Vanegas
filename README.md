@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a22,100:c7a4f5&height=170&section=header&text=Luis%20R%C3%ADos%20Vanegas&fontColor=ffffff&fontSize=42&fontAlignY=38&desc=Desarrollador%20de%20software%20%7C%20Automatizaci%C3%B3n%20%7C%20Datos%20%26%20IA&descAlignY=60&descSize=16" alt="banner" />
+<img src="assets/banner.svg" width="100%" alt="Luis Ríos Vanegas — banner animado" />
 
 <a href="https://github.com/Luis-Vanegas">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=C7A4F5&center=true&vCenter=true&width=640&lines=Construyo+prototipos+web+con+IA;Automatizaci%C3%B3n+%7C+Power+Platform;Next.js+%7C+TypeScript+%7C+Python;Hecho+en+Medell%C3%ADn%2C+Colombia" alt="Typing SVG" />
@@ -10,14 +10,14 @@
 
 </div>
 
----
+<img src="assets/divider.svg" width="100%" alt="" />
 
 ## `$ whoami`
 
 ```yaml
 nombre:    Luis Alberto Ríos Vanegas
 rol:       Desarrollador de software
-ubicacion: Medellín, Colombia 🇨🇴
+ubicacion: Medellín, Colombia
 formacion:
   - Técnico en Desarrollo de Software (CESDE)
   - Curso de Ciencia de Datos (en curso)
@@ -28,7 +28,7 @@ enfoque:
 estado:    aprendiendo cada día ✨
 ```
 
----
+<img src="assets/divider.svg" width="100%" alt="" />
 
 ## `$ cat tech-stack.yaml`
 
@@ -45,7 +45,7 @@ estado:    aprendiendo cada día ✨
 ![Power Platform](https://img.shields.io/badge/Power%20Platform-742774?style=for-the-badge&logo=powerapps&logoColor=white)
 ![Claude](https://img.shields.io/badge/Claude-d97757?style=for-the-badge&logo=anthropic&logoColor=white)
 
----
+<img src="assets/divider.svg" width="100%" alt="" />
 
 ## `$ git log --pinned`
 
@@ -55,7 +55,7 @@ estado:    aprendiendo cada día ✨
 | [**mi-portafolio**](https://github.com/Luis-Vanegas/mi-portafolio) | Mi portafolio personal |
 | [**Proyectos_sociales**](https://github.com/Luis-Vanegas/Proyectos_sociales) | Indicadores y datos de proyectos sociales |
 
----
+<img src="assets/divider.svg" width="100%" alt="" />
 
 ## `$ github --stats`
 
@@ -66,7 +66,7 @@ estado:    aprendiendo cada día ✨
 
 </div>
 
----
+<img src="assets/divider.svg" width="100%" alt="" />
 
 ## `$ connect --socials`
 
@@ -77,12 +77,4 @@ estado:    aprendiendo cada día ✨
 
 </div>
 
----
-
-<div align="center">
-
-*Hecho con 💜 y mucho café desde Medellín, Colombia*
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:c7a4f5,100:1a1a22&height=100&section=footer" alt="footer" />
-
-</div>
+<img src="assets/footer.svg" width="100%" alt="Hecho con mucho café desde Medellín" />
