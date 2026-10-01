@@ -14,19 +14,11 @@
 
 ## `$ whoami`
 
-```yaml
-nombre:    Luis Alberto Ríos Vanegas
-rol:       Desarrollador de software
-ubicacion: Medellín, Colombia
-formacion:
-  - Técnico en Desarrollo de Software (CESDE)
-  - Curso de Ciencia de Datos (en curso)
-enfoque:
-  - Prototipos web asistidos por IA
-  - Automatización y Power Platform
-  - Datos abiertos y paneles de seguimiento
-estado:    aprendiendo cada día ✨
-```
+<div align="center">
+
+<img src="assets/whoami.svg" width="85%" alt="Terminal: whoami — Luis Alberto Ríos Vanegas" />
+
+</div>
 
 <img src="assets/divider.svg" width="100%" alt="" />
 
